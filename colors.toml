@@ -1,0 +1,24 @@
+# Exact colors from the dark theme at https://plugins.omarchy.org/
+# (CSS variables in :root). Slots the site has no color for are left out,
+# so omalauncher derives them itself.
+mode = "dark"
+
+accent = "#ff5a36"             # --accent
+selection = "#28282c"          # --line
+muted = "#3a3a3f"              # --line-strong
+
+background = "#000000"         # --bg
+dark_background = "#050507"    # --code-bg
+darker_background = "#000000"  # --bg
+lighter_background = "#0b0b0d" # --panel
+
+foreground = "#d7d7d9"         # --text
+dark_foreground = "#7d7d84"    # --faint
+light_foreground = "#aaaab0"   # --muted
+bright_foreground = "#eeeeee"  # --heading
+
+red = "#ff5a36"                # --accent
+yellow = "#ffb000"             # --updated
+green = "#b4c96f"              # --stable
+cyan = "#b9d4ef"               # --syntax-string
+blue = "#b9d4ef"               # --syntax-string
