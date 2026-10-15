@@ -20,5 +20,3 @@ bright_foreground = "#eeeeee"  # --heading
 red = "#ff5a36"                # --accent
 yellow = "#ffb000"             # --updated
 green = "#b4c96f"              # --stable
-cyan = "#b9d4ef"               # --syntax-string
-blue = "#b9d4ef"               # --syntax-string
